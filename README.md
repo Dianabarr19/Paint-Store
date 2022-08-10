@@ -10,3 +10,8 @@ The purpose of this project was to get familiarized with the four ways to repres
 <li>HSL</li>
 <li>We can add opacity to color in RGB and HSL by adding a fouth value: <strong>a</strong> which is represented as a percentage</li>
 </ol>
+
+
+https://user-images.githubusercontent.com/90432547/183921222-04be7c0c-5561-4b14-bc5b-189c5859e48e.mov
+
+
